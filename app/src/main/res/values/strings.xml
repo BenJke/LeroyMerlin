@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Leroy Merlin</string>
+    <string name="main">Главная</string>
+    <string name="my_list">Мой список</string>
+    <string name="my_shops">Магазины</string>
+    <string name="my_profile">Профиль</string>
+    <string name="my_cart">Корзина</string>
+    <string name="product_search">Поиск Товаров</string>
+    <string name="search">Поиск</string>
+    <string name="catalog">Каталог</string>
+    <string name="garden">Сад</string>
+    <string name="recently_viewed">Недавно Просмотренные</string>
+    <string name="_430_35">430,35 р/шт.</string>
+    <string name="granit">Керамогранит</string>
+    <string name="_36_990">36 990 р/шт.</string>
+    <string name="generator">Генератор бензиновый</string>
+    <string name="last_chance">Предложение ограничено</string>
+</resources>
